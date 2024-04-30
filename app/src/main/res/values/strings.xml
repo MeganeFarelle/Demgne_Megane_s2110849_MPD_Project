@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="home">Home</string>
+    <string name="back">Back</string>
+    <string name="max">Max :</string>
+    <string name="min">Min :</string>
+    <string name="last_update">Last Update :</string>
+    <string name="pressure">Pressure</string>
+    <string name="uv_risk">UV Risk</string>
+    <string name="wind">Wind</string>
+    <string name="rain_chance">Rain Chance</string>
+    <string name="temperature">Temperature</string>
+    <string name="today">Today</string>
+    <string name="now">Now</string>
+    <string name="map">Map</string>
+    <string name="forecasts">Forecasts</string>
+    <string name="weather">Weather</string>
+    <string name="search_hint">Search for a city or location</string>
+    <string name="td_forecast">3-Days Forecast</string>
+    <string name="student">Megane_Farelle_S2110849</string>
+    <string name="air_quality">AIR QUALITY</string>
+    <string name="tips">Tips :</string>
+    <string name="sunrise">SUNRISE</string>
+    <string name="sunset">Sunset</string>
+    <string name="weather_condition">Weather Condition</string>
+    <string name="visibility">Visibility</string>
+    <string name="humidity">Humidity</string>
+    <string name="subtitle">Mobile platform Development Coursework"</string>
+</resources>
